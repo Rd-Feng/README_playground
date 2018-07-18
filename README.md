@@ -1,8 +1,6 @@
-<div style="text-align:center; width: 200px; margin-left: auto; margin-right: auto">
-     <table>
+<table align="align: center">
 	<tr>
 		<td>File Name</td>
 		<td>Description</td>
 	</tr>
-     </table>
-</div>
+</table>
